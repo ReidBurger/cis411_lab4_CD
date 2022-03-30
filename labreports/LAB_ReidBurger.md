@@ -17,7 +17,7 @@ ___
 > ![Successful Build](../assets/deployed_heroku.png)
 - [x] Write the URL of your running Heroku app here (and leave the deployment up so that I can test it):  
 - NOTE: I was not able to get the CircleCI working on Heroku. I sent a message on Slack, but I have not received any help as to how to solve it. 
-> [https://cis411lab4-reidburger.herokuapp.com/graphql](https://cis411lab4-reidburger3.herokuapp.com/graphql)  
+> [https://cis411lab4-reidburger.herokuapp.com/graphql](https://cis411lab4-reidburger.herokuapp.com/graphql)  
 > ![Successful Test on Deployed URL](../assets/heroku_site.png)
 - [x] Answer the **4** questions below.
 - [x] Submit a Pull Request to cis411_lab4_CD and provide the URL of that Pull Request in Canvas as your URL submission.
