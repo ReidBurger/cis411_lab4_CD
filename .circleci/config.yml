@@ -1,8 +1,6 @@
 version: 2
 jobs:
   build:  
-    docker:
-      - image: circleci/node:12
     steps:
       - checkout
 
@@ -26,6 +24,7 @@ jobs:
   deploy:
     docker:
       - image: buildpack-deps:trusty
+      - image: circleci/node:12
     steps:
       - checkout
       - run:
