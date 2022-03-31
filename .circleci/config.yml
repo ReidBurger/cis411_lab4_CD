@@ -26,7 +26,6 @@ jobs:
   deploy:
     docker:
       - image: buildpack-deps:trusty
-    docker:
     steps:
       - checkout
       - run:
